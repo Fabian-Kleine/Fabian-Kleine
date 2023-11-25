@@ -1,5 +1,5 @@
 # HI, I'M FABIAN KLEINE
-- I'm a student and selftaught Programmer focusing on web development but I'm ready for everything
+- I'm a student and selftaught Programmer focusing on web development but also interested to learn more
 - I'm currently learning Reactjs, Nextjs and Node.js
 
 
