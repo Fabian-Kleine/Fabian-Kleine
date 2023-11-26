@@ -2,6 +2,7 @@
 - I'm a student and selftaught Programmer focusing on web development but also interested to learn more
 - I'm currently learning Reactjs, Nextjs and Node.js
 
+## Learn more about me and my Projects on my [Portfolio Page](https://fabian-kleine.dev/)
 
 
 <!--- 📫 How to reach me--> 
