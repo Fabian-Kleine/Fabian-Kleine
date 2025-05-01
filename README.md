@@ -32,7 +32,6 @@ I'm Fabian Kleine, apprentice and selftaught software developer focusing on web 
 ## ⚡ GitHub Stats
 
 ![Fabian-Kleine's Stats](https://github-readme-stats.vercel.app/api?username=Fabian-Kleine&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![Fabian-Kleine's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabian-Kleine&theme=nord&hide_border=true)
 
 ![GitHub followers](https://img.shields.io/github/followers/Fabian-Kleine)
 ![GitHub User's stars](https://img.shields.io/github/stars/Fabian-Kleine)
