@@ -28,14 +28,5 @@ I'm Fabian Kleine, apprentice and selftaught software developer focusing on web 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-![Fabian-Kleine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Kleine&theme=nord&show_icons=true&hide_border=true&layout=compact)
-
-## ⚡ GitHub Stats
-
-![Fabian-Kleine's Stats](https://github-readme-stats.vercel.app/api?username=Fabian-Kleine&theme=nord&show_icons=true&hide_border=true&count_private=true)
-
 ![GitHub followers](https://img.shields.io/github/followers/Fabian-Kleine)
 ![GitHub User's stars](https://img.shields.io/github/stars/Fabian-Kleine)
-
-
-![Profile last updated](https://img.shields.io/github/last-commit/Fabian-Kleine/Fabian-Kleine?label=Last%20Updated)
