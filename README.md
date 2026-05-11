@@ -30,8 +30,6 @@ I'm Fabian Kleine, apprentice and selftaught software developer focusing on web 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](#)
 [![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)](#)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#)
-[![Shopware](https://img.shields.io/badge/Shopware-189EFF?style=for-the-badge&logo=shopware&logoColor=white)](#)
 
 ![GitHub followers](https://img.shields.io/github/followers/Fabian-Kleine)
 ![GitHub User's stars](https://img.shields.io/github/stars/Fabian-Kleine)
